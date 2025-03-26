@@ -1,5 +1,7 @@
 ## Airbnb Investment Analysis Project: Best NYC Neighborhood 
 
+![Logo Airbnb NYC](https://outandout.boardingarea.com/wp-content/uploads/2015/06/airbnb_logo_detail.png)
+
 ### Project Overview
 
 This project conducts an in-depth Exploratory Data Analysis (EDA) of Airbnb listings in New York City to identify the best neighborhood for investing in an apartment to maximize rental earnings. I used Python libraries including Pandas, Numpy, Matplotlib and Seaborn for data cleaning, visualization and comprehensive statistical evaluation.
